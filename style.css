@@ -34,7 +34,7 @@ color:var(--text-color);
     left:0;
     width:100%;
     padding:2rem 9%;
-    background:transparent;
+    background:var(--bg-color);
     display:flex;
     justify-content: space-between;
     align-items: center;
