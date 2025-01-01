@@ -1,1 +1,1 @@
-Helloo everyone! This is my portfolio.
+Hello everyone! This is my portfolio.
